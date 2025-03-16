@@ -1,0 +1,14 @@
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\bin\Debug\net8.0\RemoveHead e RemoveTail.exe
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\bin\Debug\net8.0\RemoveHead e RemoveTail.deps.json
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\bin\Debug\net8.0\RemoveHead e RemoveTail.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\bin\Debug\net8.0\RemoveHead e RemoveTail.dll
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\bin\Debug\net8.0\RemoveHead e RemoveTail.pdb
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.dll
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\refint\RemoveHead e RemoveTail.dll
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.pdb
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\RemoveHead e RemoveTail.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\RemoveHead e RemoveTail\obj\Debug\net8.0\ref\RemoveHead e RemoveTail.dll
